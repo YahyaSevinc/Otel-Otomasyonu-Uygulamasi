@@ -1,0 +1,104 @@
+C:\Users\sevinç\Desktop\C# Uygulamalar 2022\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+C:\Users\sevinç\Desktop\C# Uygulamalar 2022\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+C:\Users\sevinç\Desktop\C# Uygulamalar 2022\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+C:\Users\sevinç\Desktop\C# Uygulamalar 2022\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\sevinç\Desktop\C# Uygulamalar 2022\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sevinç\Desktop\C# Uygulamalar 2022\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form1.resources
+C:\Users\sevinç\Desktop\C# Uygulamalar 2022\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmAdminGiris.resources
+C:\Users\sevinç\Desktop\C# Uygulamalar 2022\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+C:\Users\sevinç\Desktop\C# Uygulamalar 2022\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\sevinç\Desktop\C# Uygulamalar 2022\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sevinç\Desktop\C# Uygulamalar 2022\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+C:\Users\sevinç\Desktop\C# Uygulamalar 2022\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb
+C:\Users\sevinç\Desktop\C# Uygulamalar 2022\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmAnaMenu.resources
+C:\Users\sevinç\Desktop\C# Uygulamalar 2022\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmMusteriEkle.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form1.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmAdminGiris.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmAnaMenu.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmLogo.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmMusteriEkle.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmKullaniciEkle.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmMusteriListeleme.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form1.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form102.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FormOda101.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmAdminGiris.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmAnaMenu.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmKullaniciEkle.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmKullaniciListeleme.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmLogo.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmMusteriEkle.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmMusteriListeleme.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda103.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda104.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda105.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda106.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda107.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda108.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda109.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmSuresiDolanlar.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form102.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FormOda101.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmKullaniciListeleme.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda103.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda104.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda105.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda106.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda107.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda108.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda109.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmSuresiDolanlar.resources
+C:\Users\sevinç\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmGelirGider.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmGelirGider.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda201.resources
+C:\Users\Sevinc\Desktop\2022 Uygulamalar\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda202.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe.config
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.exe
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\bin\Debug\OtelOtomasyonu.pdb
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form1.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Form102.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FormOda101.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmAdminGiris.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmAnaMenu.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmGelirGider.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmKullaniciEkle.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmKullaniciListeleme.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmLogo.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmMusteriEkle.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmMusteriListeleme.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda103.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda104.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda105.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda106.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda107.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda108.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda109.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda201.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmOda202.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.FrmSuresiDolanlar.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.Properties.Resources.resources
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.exe
+C:\Users\Sevinc\Desktop\OtelOtomasyonu\OtelOtomasyonu\obj\Debug\OtelOtomasyonu.pdb

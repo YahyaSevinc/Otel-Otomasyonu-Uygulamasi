@@ -1,0 +1,694 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmgelirgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmgelirgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmgelirgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmgelirgider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|c:\\users\\sevinc\\desktop\\otelotomasyonu\\otelotomasyonu\\frmsuresidolanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmsuresidolanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmsuresidolanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmsuresidolanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmmusterilisteleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmmusterilisteleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|c:\\users\\sevinc\\desktop\\otelotomasyonu\\otelotomasyonu\\frmoda202.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda202.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmoda202.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda202.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|c:\\users\\sevinc\\desktop\\otelotomasyonu\\otelotomasyonu\\frmoda201.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda201.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmoda201.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda201.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|c:\\users\\sevinc\\desktop\\otelotomasyonu\\otelotomasyonu\\frmoda109.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda109.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmoda109.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda109.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\formoda101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\formoda101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\formoda101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\formoda101.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|c:\\users\\sevinc\\desktop\\otelotomasyonu\\otelotomasyonu\\frmoda108.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda108.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmoda108.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda108.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|c:\\users\\sevinc\\desktop\\otelotomasyonu\\otelotomasyonu\\frmoda107.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda107.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmoda107.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda107.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|c:\\users\\sevinc\\desktop\\otelotomasyonu\\otelotomasyonu\\frmoda106.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda106.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmoda106.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda106.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|c:\\users\\sevinc\\desktop\\otelotomasyonu\\otelotomasyonu\\frmoda105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmoda105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|c:\\users\\sevinc\\desktop\\otelotomasyonu\\otelotomasyonu\\frmoda104.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda104.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmoda104.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda104.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|c:\\users\\sevinc\\desktop\\otelotomasyonu\\otelotomasyonu\\frmoda103.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda103.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmoda103.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmoda103.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\form102.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\form102.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\form102.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\form102.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmmusteriekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmkullanicilisteleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmkullanicilisteleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmkullanicilisteleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmkullanicilisteleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|c:\\users\\sevinc\\desktop\\otelotomasyonu\\otelotomasyonu\\frmkullaniciekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmkullaniciekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmkullaniciekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmkullaniciekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmadmingiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|c:\\users\\sevinc\\desktop\\otelotomasyonu\\otelotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|c:\\users\\sevinc\\desktop\\otelotomasyonu\\otelotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmmusterilisteleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmmusterilisteleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmanamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmanamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\frmanamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\frmanamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\otelotomasyonu\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5001381-92F7-4E12-B6B8-9ED3ED8C4252}|OtelOtomasyonu\\OtelOtomasyonu.csproj|solutionrelative:otelotomasyonu\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmSuresiDolanlar.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmSuresiDolanlar.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmSuresiDolanlar.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmSuresiDolanlar.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmSuresiDolanlar.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwDUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:59:21.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMusteriEkle.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmMusteriEkle.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmMusteriEkle.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmMusteriEkle.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmMusteriEkle.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwEEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmMusteriListeleme.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmMusteriListeleme.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmMusteriListeleme.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmMusteriListeleme.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmMusteriListeleme.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAYwBgAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmGelirGider.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmGelirGider.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmGelirGider.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmGelirGider.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmGelirGider.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.169Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmGelirGider.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmGelirGider.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmGelirGider.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmGelirGider.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmGelirGider.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAEwBQAAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmOda202.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda202.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda202.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda202.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda202.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.1Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmOda109.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda109.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda109.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda109.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda109.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.159Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSuresiDolanlar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmSuresiDolanlar.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmSuresiDolanlar.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmSuresiDolanlar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmSuresiDolanlar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.102Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormOda101.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FormOda101.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FormOda101.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FormOda101.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FormOda101.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAawB8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmOda109.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda109.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda109.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda109.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda109.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:48:04.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmOda202.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda202.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda202.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda202.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda202.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:51:10.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmOda201.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda201.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda201.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda201.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda201.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:50:47.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormOda101.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FormOda101.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FormOda101.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FormOda101.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FormOda101.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.098Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmOda201.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda201.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda201.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda201.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda201.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.157Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmOda108.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda108.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda108.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda108.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda108.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:47:47.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmOda107.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda107.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda107.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda107.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda107.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:47:33.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmOda106.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda106.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda106.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda106.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda106.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBMAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:47:08.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmOda105.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda105.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda105.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda105.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda105.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:46:39.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmOda104.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda104.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda104.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda104.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda104.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:46:08.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmOda103.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda103.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda103.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda103.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda103.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:40:07.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmOda108.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda108.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda108.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda108.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda108.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.161Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmOda103.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda103.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda103.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda103.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda103.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.167Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmOda107.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda107.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda107.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda107.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda107.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.162Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form102.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\Form102.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\Form102.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\Form102.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\Form102.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmOda106.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda106.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda106.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda106.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda106.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.164Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form102.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\Form102.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\Form102.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\Form102.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\Form102.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.15Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmOda105.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda105.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda105.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda105.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda105.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.097Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmOda104.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda104.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmOda104.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmOda104.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmOda104.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.165Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmMusteriEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmMusteriEkle.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmMusteriEkle.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmMusteriEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmMusteriEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.092Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmKullaniciListeleme.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmKullaniciListeleme.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmKullaniciListeleme.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmKullaniciListeleme.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmKullaniciListeleme.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmKullaniciListeleme.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmKullaniciListeleme.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmKullaniciListeleme.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmKullaniciListeleme.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmKullaniciListeleme.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.095Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmKullaniciEkle.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmKullaniciEkle.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmKullaniciEkle.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmKullaniciEkle.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmKullaniciEkle.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:36.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmKullaniciEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmKullaniciEkle.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmKullaniciEkle.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmKullaniciEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmKullaniciEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.089Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmAdminGiris.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmAdminGiris.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmAdminGiris.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmAdminGiris.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmAdminGiris.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA2wBgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:41:20.48Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmAdminGiris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmAdminGiris.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmAdminGiris.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmAdminGiris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmAdminGiris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.108Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\Form1.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:41:24.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmMusteriListeleme.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmMusteriListeleme.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmMusteriListeleme.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmMusteriListeleme.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmMusteriListeleme.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.046Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmAnaMenu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmAnaMenu.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmAnaMenu.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\2022 Uygulamalar\\OtelOtomasyonu\\OtelOtomasyonu\\FrmAnaMenu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\2022 Uygulamalar\\OtelOtomasyonu\\OtelOtomasyonu\\FrmAnaMenu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-23T14:00:38.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FrmAnaMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmAnaMenu.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\FrmAnaMenu.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\FrmAnaMenu.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\FrmAnaMenu.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-23T14:00:38.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\Class2.cs",
+              "RelativeDocumentMoniker": "OtelOtomasyonu\\Class2.cs",
+              "ToolTip": "C:\\Users\\Sevinc\\Desktop\\OtelOtomasyonu\\OtelOtomasyonu\\Class2.cs",
+              "RelativeToolTip": "OtelOtomasyonu\\Class2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:00:38.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
